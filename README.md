@@ -1,26 +1,25 @@
 # Petar Scepanovic
 
-Full-stack software engineer with six years of experience building web applications.
+I'm a full-stack software engineer with six years of experience. I mostly work with TypeScript, React, Next.js, C#/.NET and Azure.
 
-I work primarily with TypeScript, React, Next.js, C#/.NET and Azure. My public work here is intentionally limited to projects and contributions I can share safely.
+This profile highlights a small selection of my personal projects.
 
 ## Featured project
 
 ### [Batch Transaction Processor](https://github.com/PressureandTime/batch)
 
-A typed three-step CSV workflow built with React 19 and TypeScript. It includes:
+A React and TypeScript app for uploading, validating and reviewing CSV batch files.
 
-- Strict CSV schema validation with Zod
-- State-preserving navigation
+- Three-step flow with state-preserving navigation
+- Schema validation with Zod
 - Virtualized review for large files
-- Unit tests with Vitest and end-to-end coverage with Playwright
+- Unit tests with Vitest and end-to-end tests with Playwright
+- Tested with synthetic files containing up to 10,000 rows
 
-Tested with synthetic CSV files containing up to 10,000 rows.
-
-## Core technologies
+## Tools I use
 
 `TypeScript` · `React` · `Next.js` · `Node.js` · `C#/.NET` · `Azure` · `Playwright` · `Docker`
 
-## Elsewhere
+## Links
 
 [Portfolio](https://www.petar.rocks/) · [LinkedIn](https://www.linkedin.com/in/p-scepanovic/)
